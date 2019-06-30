@@ -1,0 +1,1 @@
+This is a responsive website template that design specific for mobile first, it is also displayed well on other resolutions.
